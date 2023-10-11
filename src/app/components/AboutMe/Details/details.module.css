@@ -1,0 +1,43 @@
+.about_container {
+    display: flex;
+    justify-content: center;
+    background-color: #23253A;
+
+}
+
+.about_image {
+    margin-right: 50px;
+}
+
+.about_information {
+    width: 60%;
+}
+
+.about_info_hello {
+
+    margin-top: 20px;
+    text-align: left;
+}
+
+.about_info_paras {
+    margin-top: 20px;
+    text-align: left;
+}
+
+
+
+.informations {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.informations_divs {
+    width: 50%;
+    margin-top: 10px;
+    text-align: left;
+    /* background-color: pink; */
+}
+
+.info_titels {
+    color: brown;
+}

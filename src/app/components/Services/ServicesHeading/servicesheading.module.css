@@ -1,0 +1,33 @@
+.services_header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.link {
+    color: brown;
+    text-decoration: none;
+    margin-top: 15px;
+    /* background-color: black; */
+}
+
+.heading {
+    margin-top: 15px;
+}
+
+.para {
+    width: 50%;
+    margin-top: 15px;
+    /* background-color: red; */
+}
+
+
+.line {
+    width: 30px;
+    margin-top: 20px;
+    background-color: red;
+    border-bottom: 2px solid salmon;
+}

@@ -1,0 +1,14 @@
+.about_header{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.para{
+    width: 50%;
+    /* background-color: red; */
+    margin-bottom: 50px;
+}

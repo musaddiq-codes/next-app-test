@@ -1,0 +1,26 @@
+
+  .card {
+    /* border: 1px solid #ccc; */
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+    /* max-width: 220px; */
+    width: 220px;
+    height: 200px;
+    background-color: #23253A;
+  }
+  
+  .icon {
+    font-size: 1em;
+    margin-bottom: 10px;
+  }
+  
+  .card h2 {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .card p {
+    font-size: 1.2em;
+  }
+  
